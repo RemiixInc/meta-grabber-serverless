@@ -11,6 +11,6 @@
     "meta-grabber": "^1.0.0"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   }
 }
